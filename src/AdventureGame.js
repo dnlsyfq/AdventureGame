@@ -23,3 +23,20 @@ console.log("\nYour quest: Defeat the dragon in the mountains!");
 playerName = readline.question("\nWhat is your name, brave adventurer? ");
 console.log("\nWelcome, " + playerName + "!");
 console.log("You start with " + playerGold + " gold.");
+
+let weaponDamage = 0
+console.log(`Weapon Damage = ${weaponDamage}`)
+
+console.log("When you buy a sword, weapon damage will increase to 10!")
+
+let monsterDefense = 5
+
+console.log(`Monster Defense = ${monsterDefense}`)
+
+console.log("Monster can withstand some damage in combat!")
+
+let healingPotionValue = 30
+
+console.log(`Healing Potion = ${healingPotionValue}`)
+
+console.log("A potion will restore 30 health!")
