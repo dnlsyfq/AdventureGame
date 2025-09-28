@@ -17,3 +17,4 @@ switch (true) {
         console.log("Preparing your salad...10 minutes remaining.");
         break;
 }
+
